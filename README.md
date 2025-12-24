@@ -1,0 +1,2 @@
+# Tableu--Electric-Vehicle-Analysis-With-Important-KPI
+This project presents an in-depth Electric Vehicle (EV) data analysis using Tableau to uncover trends, performance insights, and adoption patterns in the electric vehicle market.1.Total Electric Vehicles Count 2.Top Manufacturers by EV Count 3.State-wise / Region-wise EV Distribution with different chart like line chart, geo chart ,bar chart etc.
